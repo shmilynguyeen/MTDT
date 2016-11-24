@@ -1,6 +1,6 @@
 ﻿body {
 }
- /*Default ul */
+/*Default ul */
 ul {
     list-style-type: none;
     margin: 0;
@@ -8,11 +8,10 @@ ul {
 }
 
 .header {
-    height: 100px;
+    height: 90px;
     width: 100%;
-    background-color: gray;
+    background-color: #f5f5f5;
     bottom: 0;
-
 }
 
 .hearder_top {
@@ -20,36 +19,32 @@ ul {
     width: 100%;
     background-color: red;
     bottom: 0;
-   
-   
-}
-.hearder_top.line { 
-    margin-left : 50px; 
-    background-color :blue;
-
-}
- 
-.hearder_top li {
-
-    float : left;
-     
-    background-color : yellow;
-    
-
 }
 
 
 
 
 
- 
+
+
+
 .hearder_bot {
-    height: 60px;
+    height: 50px;
     width: 100%;
-    background-color: green;
+    background-color:white;
     bottom: 0;
-  
 }
+    .hearder_bot .line {
+        margin-left: 50px;
+        background-color: blue;
+    }
+
+    .hearder_bot li {
+        float: left;
+        font-size: 18px;
+       margin-left : 20px;
+    }
+
 
 .menu_bar_1 {
     height: 40px;
