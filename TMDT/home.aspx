@@ -6,42 +6,38 @@
 <head runat="server">
     <title>Vinamilk</title>
     <link rel="stylesheet" type="text/css" href="css/home.css">
+       <link rel="stylesheet" type="text/css" href="css/hover.css">
 </head>
 <body>
     <form id="form1" runat="server">
         <div>
             <div>
-              <ul class="header"> 
-                  <li class ="hearder_top">
-                      <ul >
-                          <li></li>
-                           <li></li>
-                           <li></li>
-                           <li></li>
-                           <li></li>
-                           <li></li>
-                           <li></li>
-                           <li></li>
-                           <li></li>
-                           <li></li>
-
-                          ba dang viet trang home ne :D 
+                <ul class="header">
+                    <li class="hearder_top">
+                        <ul class="line" >
+                            
+                            <li class="hvr-underline-from-center" style="position :relative ; left : 20% ; top : 20px">Trang chủ </li>
+                           
+                             
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
 
 
-                         chua j ma e 
-
-                      </ul>
+                        </ul>
 
 
 
-                  </li>
-                  <li class="hearder_mid"></li>
-                  <li class ="hearder_bot"></li>
+                    </li>
+                    <li class="hearder_bot"></li>
 
 
 
 
-              </ul>
+                </ul>
 
 
 

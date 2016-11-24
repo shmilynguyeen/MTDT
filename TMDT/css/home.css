@@ -8,7 +8,7 @@ ul {
 }
 
 .header {
-    height: 150px;
+    height: 100px;
     width: 100%;
     background-color: gray;
     bottom: 0;
@@ -16,33 +16,39 @@ ul {
 }
 
 .hearder_top {
-    height: 30px;
+    height: 40px;
     width: 100%;
     background-color: red;
     bottom: 0;
-    margin-left: -40px;
-    margin-right: -40px;
+   
+   
+}
+.hearder_top.line { 
+    margin-left : 50px; 
+    background-color :blue;
+
+}
+ 
+.hearder_top li {
+
+    float : left;
+     
+    background-color : yellow;
+    
+
 }
 
 
 
 
-.hearder_mid {
-    height: 90px;
-    width: 100%;
-    background-color: blue;
-    bottom: 0;
-    margin-left: -40px;
-    margin-right: -40px;
-}
 
+ 
 .hearder_bot {
-    height: 30px;
+    height: 60px;
     width: 100%;
     background-color: green;
     bottom: 0;
-    margin-left: -40px;
-    margin-right: -40px;
+  
 }
 
 .menu_bar_1 {

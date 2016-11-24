@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
     <div>
     <p>
-        Đây là trang shopping card ba tạo cho G heo :D 
+   
     </p>
     </div>
     </form>
