@@ -1,0 +1,62 @@
+﻿body {
+}
+ /*Default ul */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 150px;
+    width: 100%;
+    background-color: gray;
+    bottom: 0;
+
+}
+
+.hearder_top {
+    height: 30px;
+    width: 100%;
+    background-color: red;
+    bottom: 0;
+    margin-left: -40px;
+    margin-right: -40px;
+}
+
+
+
+
+.hearder_mid {
+    height: 90px;
+    width: 100%;
+    background-color: blue;
+    bottom: 0;
+    margin-left: -40px;
+    margin-right: -40px;
+}
+
+.hearder_bot {
+    height: 30px;
+    width: 100%;
+    background-color: green;
+    bottom: 0;
+    margin-left: -40px;
+    margin-right: -40px;
+}
+
+.menu_bar_1 {
+    height: 40px;
+    width: 100%;
+    background-color: red;
+    margin: 0px;
+    padding: 0px;
+}
+
+.footer {
+    height: 40px;
+    width: 100%;
+    background-color: grey;
+    position: absolute;
+    bottom: 0;
+}
